@@ -1,3 +1,21 @@
-theme: jekyll-theme-minimal
-title: Banji Ajibade - Cybersecurity Portfolio
-description: Certified Ethical Hacker and IT Professional with expertise in Microsoft 365 security, penetration testing, and GDPR compliance.
+# Banji Ajibade - Cybersecurity Portfolio
+Certified Ethical Hacker (CEH) and CompTIA PenTest+ professional with over 5 years of IT experience. Specializing in Microsoft 365 security, penetration testing, network security, and GDPR compliance.
+
+## About Me
+- **Location**: Canterbury, Kent
+- **Email**: ajibadebanji01@gmail.com
+- **LinkedIn**: www.linkedin.com/in/banjiajibade
+- **Certifications**: CEH, CompTIA Security+, Network+, PenTest+, CNVP, AWS Cloud Technical Essentials
+
+## Projects
+Explore my cybersecurity projects below:
+## Microsoft 365 Email and Data Sharing Migration
+**Objective**: Migrated company email services to Microsoft 365 and implemented SharePoint for secure data sharing, ensuring GDPR compliance.
+
+**Process**:
+- Conducted risk assessment to identify GDPR non-compliance risks.
+- Led migration to Microsoft 365 and configured SharePoint.
+- Trained staff on new systems, enhancing document management.
+
+**Tools**: Microsoft 365, SharePoint
+**Outcomes**: Improved operational efficiency by 80%, achieved GDPR compliance.
